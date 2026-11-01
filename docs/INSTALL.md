@@ -5,8 +5,8 @@
 Requires Git and Python 3.11+. From a terminal:
 
 ```sh
-git clone https://github.com/michaeljabbour/amplifier-skill-build-torque.git
-cd amplifier-skill-build-torque
+git clone https://github.com/michaeljabbour/amplifier-capability-build-with-torque.git
+cd amplifier-capability-build-with-torque
 python3 scripts/capability.py doctor
 python3 scripts/capability.py install --dest ~/.agents/skills
 ```

@@ -2,11 +2,11 @@
 
 Add a domain without tangling the application.
 
-Watch the [70-second film](https://michaeljabbour.github.io/amplifier-skill-build-torque/#film): a master key into another domain’s tables, and how the skill keeps each domain on its own floor. The example in it is fictional.
+Watch the [70-second film](https://michaeljabbour.github.io/amplifier-capability-build-with-torque/#film): a master key into another domain’s tables, and how the skill keeps each domain on its own floor. The example in it is fictional.
 
 An authoring skill for Torque developers. Give a bundle a clear responsibility, connect it through declared interfaces and events, and plan data changes before they reach an existing store.
 
-[Explore the site](https://michaeljabbour.github.io/amplifier-skill-build-torque/) · [Read the method](skills/build-with-torque/SKILL.md) · [Install guide](docs/INSTALL.md)
+[Explore the site](https://michaeljabbour.github.io/amplifier-capability-build-with-torque/) · [Read the method](skills/build-with-torque/SKILL.md) · [Install guide](docs/INSTALL.md)
 
 ## What you get
 
@@ -19,8 +19,8 @@ An authoring skill for Torque developers. Give a bundle a clear responsibility, 
 Requires Git and Python 3.11+. Run these commands from a terminal:
 
 ```sh
-git clone https://github.com/michaeljabbour/amplifier-skill-build-torque.git
-cd amplifier-skill-build-torque
+git clone https://github.com/michaeljabbour/amplifier-capability-build-with-torque.git
+cd amplifier-capability-build-with-torque
 python3 scripts/capability.py doctor
 python3 scripts/capability.py install --dest ~/.agents/skills
 ```
