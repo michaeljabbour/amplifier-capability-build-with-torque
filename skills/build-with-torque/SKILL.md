@@ -31,3 +31,7 @@ Intents explicitly declare context, allowed tools, goal, success criteria, and r
 Run the native manifest/contract validator and tests available in the host. Check a successful interface call, invalid input, unauthorized request, missing dependency, event reaction, state persistence, and failure recovery where applicable. A mocked unit test is not proof that HTTP, UI, or a real database migration works. For schema changes, retain data snapshot and rollback; a table rebuild rewrites data even when called a type change. Hot reload does not establish a production restart or migration.
 
 Return changed bundle/mount-plan paths, ownership and contract decisions, exact native commands/results, actual runtime scope, migration status, and unresolved evidence. The reference mirrors are generated from the canonical docs with a hash check; edit the docs, not the generated copies. Documentation-content checks establish coverage and packaging, not framework behavior or user benefit.
+
+## Optional coaching checkpoint
+
+Read [the local coaching guide](references/coaching-session.v1.md) only when the person asks for practice or optional session bookkeeping. Keep direct artifact production available; agree a small budget, preserve the baseline and stop on goal, user exit or no meaningful gain.
